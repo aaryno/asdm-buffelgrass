@@ -1,4 +1,0 @@
-Set PATH=C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\dotnet\;C:\Users\yachi\AppData\Local\Microsoft\WindowsApps;C:\Users\yachi\AppData\Local\GitHubDesktop\bin;C:\\Users\\yachi\\.conda\\envs\\python37;C:\ProgramData\Anaconda3\Scripts;C:\Users\yachi\.conda\envs\python37\Library\bin;C:\Program Files\QGIS 3.8\bin;C:\Users\yachi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Inkscape\bin;C:\\Users\\yachi\\OneDrive - Arizona-Sonora Desert Museum\ASDM\Projects\CommunityScience_WeedMapping
-
-git clone https://github.com/aaryno/asdm-buffelgrass.git
-
