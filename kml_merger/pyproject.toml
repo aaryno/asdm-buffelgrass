@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "kml-merger"
+version = "0.1.0"
+description = ""
+authors = ["Aaryn Olsson <aaryno@gmail.com>"]
+readme = "README.md"
+packages = [{include = "kml_merger"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+geopandas = "^0.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
